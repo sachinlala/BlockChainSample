@@ -5,7 +5,7 @@ Start a BlockChain simulator e.g. [testrpc](https://github.com/ethereumjs/testrp
 testrpc
 ```
 
-Sample Contract, Bit Coin can be downloaded using truffle.
+Sample Contract, Bit Coin can be downloaded using [truffle](http://truffle.readthedocs.io/en/beta/getting_started/installation/?utm_campaign=&utm_medium=email&utm_source=external-user).
 ```
 truffle init
 ```
