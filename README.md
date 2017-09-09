@@ -1,6 +1,6 @@
 101 sample for BlockChain (source: India Hacks event)
 
-Start a BlockChain simulator e.g. testrpc
+Start a BlockChain simulator e.g. [testrpc](https://github.com/ethereumjs/testrpc)
 ```
 testrpc
 ```
